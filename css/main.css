@@ -1,0 +1,97 @@
+* {
+	font-family: Roboto;
+	font-size: 18px;
+}
+
+.header{
+	background-color: #FCCE09;
+	width: 1370px;
+	color: white;
+	height: 400px;
+	text-align: center;
+	max-width: 100%;
+}
+
+.laboratoria{
+	margin-top: 180px;
+}
+
+.laboratoria h1{
+	font-size: 40px;
+	margin-left: 320px;
+}
+
+.laboratoria p{
+	font-size: 15px;
+	margin-left: 320px;
+}
+
+.boton {
+	font-size: 16px;	
+	text-decoration: none;
+	color: white;
+	padding: 25px 0 0 25px;
+	float: left;
+}
+
+.sumate,.logo{ 
+	margin: 30px 0 0 50px;
+	padding-top: 7px;
+}
+
+.sumate{
+	max-width: 8%;
+	height: 30px;
+	background-color:#FCBA43;
+}
+
+.textosumate {  	
+	text-decoration: none;
+	color: white;
+}
+.cuadros{
+	background-color: #EAEAE9;
+	padding: 50px 120px 20px 120px;
+}
+.bloque1{
+	text-align: center;
+	background-color: white;
+	padding: 20px 25px 5px 25px;
+	margin: 20px;
+}
+
+.leemas{
+	max-width: 8%;
+	height: 30px;
+	background-color:#FCBA43;
+	text-decoration: none;
+	color: white;
+	padding: 5px 15px;
+}
+
+div nav h1{
+	color:#868683;
+	font-size: 18px;
+	text-align: left;
+	margin: 15px 15px 15px 0;
+}
+
+div nav p{
+	color:#DCD2C8;
+	margin: 15px;
+	text-align: left;
+}
+
+.footer{ 
+	max-width: 100%;
+	background:#3E3F40;
+	padding: 20px 0 20px 0;
+	margin: 0 auto;
+}
+
+.footer p{ 
+ 	padding-left:65px;
+ 	margin: 0 auto;
+	color: white;
+ 	font-size: 14px;
+}
